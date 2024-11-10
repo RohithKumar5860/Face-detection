@@ -18,4 +18,4 @@
 <p>
   live photo detection
 </p>
-<img src = "">
+<img src = "10.11.2024_12.54.36_REC.png">
