@@ -10,4 +10,4 @@
 <p>
   Single person 
 </p>
-<img src = "">
+<img src = "10.11.2024_12.50.13_REC.png">
