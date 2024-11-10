@@ -15,3 +15,7 @@
   Group of people
 </p>
 <img src = "10.11.2024_12.53.03_REC.png">
+<p>
+  live photo detection
+</p>
+<img src = "">
