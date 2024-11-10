@@ -11,3 +11,7 @@
   Single person 
 </p>
 <img src = "10.11.2024_12.50.13_REC.png">
+<p>
+  Group of people
+</p>
+<img src = "">
