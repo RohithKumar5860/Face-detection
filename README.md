@@ -14,4 +14,4 @@
 <p>
   Group of people
 </p>
-<img src = "">
+<img src = "10.11.2024_12.53.03_REC.png">
